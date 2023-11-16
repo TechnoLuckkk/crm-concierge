@@ -1,4 +1,7 @@
-.main-splash {
-    background-color: red;
-    color: white;
+.main-section-container {
+    padding: 1.5rem 0;
+}
+
+.nav-button {
+    background-color: white;
 }
